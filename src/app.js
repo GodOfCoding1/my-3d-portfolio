@@ -1111,6 +1111,7 @@ Ammo().then((Ammo) => {
         floatingLabel(11.875, 4.5, -70, "Github");
         floatingLabel(19.125, 4.5, -70, "LinkedIn");
         floatingLabel(26.875, 4.5, -70, "Email");
+        floatingLabel(26.875 * 2 - 19.125, 4.5, -70, "Résumé");
 
         allSkillsSection(-50, 0.025, 20, 40, 40, boxTexture.allSkills);
 

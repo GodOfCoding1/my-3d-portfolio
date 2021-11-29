@@ -1,4 +1,4 @@
-# Ryan Floyd's Portfolio
+# 3D Portfolio
 
 i made a 3d portfolio using three.js and webgl
 

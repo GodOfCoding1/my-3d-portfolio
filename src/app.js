@@ -1089,7 +1089,7 @@ Ammo().then((Ammo) => {
             4,
             1,
             boxTexture.resume,
-            "mailto:madhavrajeev303@gmail.com",
+            "https://godofcoding1.github.io/my-3d-portfolio/madhav-rajeev.pdf",
             0x000000,
             false
         );

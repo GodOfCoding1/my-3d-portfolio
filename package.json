@@ -2,12 +2,12 @@
   "name": "portfolio3d_madhav",
   "version": "1.0.0",
   "description": "webpack starter",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack-dev-server --output-public-path=/build/  --mode development --progress --open --hot",
-    "build": "webpack --mode production --progress",
-    "start": "node server.js"
+    "build": "webpack --mode production",
+    "start": "webpack-dev-server --output-public-path=/build/  --mode development --progress --open --hot"
   },
   "author": "madhav rajeev",
   "license": "MIT",

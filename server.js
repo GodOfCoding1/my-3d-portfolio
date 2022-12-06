@@ -20,3 +20,5 @@ app.get("*", (req, res) => {
 });
 console.log("listening on", port);
 app.listen(port);
+
+module.exports = app;

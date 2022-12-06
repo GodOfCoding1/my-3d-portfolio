@@ -8,7 +8,7 @@
     "dev": "webpack-dev-server --output-public-path=/build/  --mode development --progress --open --hot",
     "build": "webpack --mode production",
     "start": "node server.js",
-    "heroku-postbuild": "node server.js"
+    "heroku-postbuild": "webpack -p"
   },
   "author": "madhav rajeev",
   "license": "MIT",

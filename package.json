@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack-dev-server --output-public-path=/build/  --mode development --progress --open --hot",
     "build": "webpack --mode production",
-    "start": "webpack-dev-server --output-public-path=/build/  --mode development --progress --open --hot"
+    "start": "node server.js",
+    "heroku-postbuild": "node server.js"
   },
   "author": "madhav rajeev",
   "license": "MIT",

@@ -1,6 +1,6 @@
 # 3D Portfolio
 
-i made a 3d portfolio using three.js and webgl
+3d portfolio made using three.js and webgl
 
 Try it out! [https://portfolio-3d-madhav-rajeev.herokuapp.com/](https://portfolio-3d-madhav-rajeev.herokuapp.com/)
 
